@@ -86,7 +86,7 @@ Join our official WhatsApp Channel:
 
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/XdKing2/MALVIN-XD
+https://github.com/nairobianpappy/SPACEX-MD
 
 ——————
 
@@ -98,7 +98,7 @@ contextInfo: {
 externalAdReply: {
 title: "SPACEX-MD 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉",
 thumbnailUrl: "https://files.catbox.moe/bqs70b.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A",
+sourceUrl: "https://whatsapp.com/channel/0029Vb6G914CcW4vZkOMXK2u",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -122,7 +122,7 @@ Join our official WhatsApp Channel:
 
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/XdKing2/MALVIN-XD
+https://github.com/nairobianpappy/SPACEX-MD
 
 > *© KNOWN YUT*
 Stay cool and hack smart. ✌🏻*`;
@@ -130,9 +130,9 @@ Stay cool and hack smart. ✌🏻*`;
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴍᴀʟᴠɪɴ-xᴅ 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 ✅  ",
+title: "SPACEX-MD 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 ✅  ",
 thumbnailUrl: "https://files.catbox.moe/bqs70b.jpg",
-sourceUrl: "",
+sourceUrl: "https://whatsapp.com/channel/0029Vb6G914CcW4vZkOMXK2u",
 mediaType: 2,
 renderLargerThumbnail: true,
 showAdAttribution: true
@@ -149,7 +149,7 @@ showAdAttribution: true
                     process.exit();
                 } else if (connection === "close" && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode != 401) {
                     await delay(10);
-                    MALVIN_XD_PAIR_CODE();
+                    SPACEX_MD_PAIR_CODE();
                 }
             });
         } catch (err) {
